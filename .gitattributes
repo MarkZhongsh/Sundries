@@ -1,2 +1,5 @@
 adhoc.ipa filter=lfs diff=lfs merge=lfs -text
 adhoc1.ipa filter=lfs diff=lfs merge=lfs -text
+adhoc2.ipa filter=lfs diff=lfs merge=lfs -text
+adhoc4.ipa filter=lfs diff=lfs merge=lfs -text
+Thời[[:space:]]Đại[[:space:]]Nổi[[:space:]]Loạn.ipa filter=lfs diff=lfs merge=lfs -text
